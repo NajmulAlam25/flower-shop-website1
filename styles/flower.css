@@ -116,3 +116,32 @@ nav{
 .off-style{
     color: brown;
 }
+.bodyContainer{
+
+    margin: 10px;
+}
+.body-part-5{
+    display: flex;
+    max-width: 1000px;
+}
+.body-part-5-style{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+.part-5{
+    width: 1200px;
+    margin-right: 50px;
+}
+.body-part-6{
+    margin-top: 30px;
+    text-align: center;
+    background-image: url('../Flower Asset/Rectangle\ 9.png');
+    min-height: 400px;
+    min-width: 800px;
+        
+}
+.h2styles{
+padding-top: 200px;
+}
